@@ -13,4 +13,5 @@ There's no need to upload large song files, you just need to give YouTube video 
 Feel free to use this project however you want.
 
 Developed On: Django 2.0.1 & Python 3.5.6
+
 Tested On: Django 3.0.1 & Python 3.7.6
